@@ -1,0 +1,20 @@
+html {
+    font-size: 25px;
+    }
+    
+  figcaption {
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    align: center;
+    }
+  
